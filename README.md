@@ -1,4 +1,4 @@
-# Snake-Game-in-C
+## Snake Game in C
 * The snake is represented with an *(asterisk) symbol.
 * The fruit is represented with an @(at sign) symbol.
 * The snake can move in any direction according to the user with the help of the keyboard (:arrow_down:, :arrow_up:, :arrow_left:, :arrow_right: keys).
